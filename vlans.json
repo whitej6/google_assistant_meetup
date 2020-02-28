@@ -1,0 +1,21 @@
+{
+    "pod2": [
+        {
+            "id": "101",
+            "network": "10.0.1.0/24",
+            "name": "engineering"
+        },
+        {
+            "id": "102",
+            "network": "10.0.2.0/24",
+            "name": "wireless"
+        }
+    ],
+    "pod1": [
+        {
+            "id": "100",
+            "network": "10.0.0.0/24",
+            "name": "wireless"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+Flask-Assistant==0.3.91
